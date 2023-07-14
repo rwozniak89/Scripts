@@ -1,0 +1,2 @@
+one click update icob(link) as simple link:
+C:\Windows\System32\control.exe /name Microsoft.WindowsUpdate
